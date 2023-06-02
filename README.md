@@ -12,7 +12,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/WillCodesThings)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/WillCodesThings)
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/WillCodesThings)
-[![HTML](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/WillCodesThings)
+[![HTML](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/WillCodesThings)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/WillCodesThings)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/wervlad)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/wervlad)

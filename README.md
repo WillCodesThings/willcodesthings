@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Will <br>I am a part of robotics team 4414<br>I mainly like to use python as it was <br>my first programming language although I am adept at others.
+Hi, I'm Will <br>I am a part of robotics team 4414<br>I mainly like to use python as it was my first programming language although I am adept at others.
 
 
 ## 🌐 Socials:

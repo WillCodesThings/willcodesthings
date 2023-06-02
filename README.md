@@ -15,9 +15,6 @@ Hi, I'm Will <br>I am a part of robotics team 4414<br>I mainly like to use pytho
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=WillCodesThings&icon=0&color=12)](https://visitcount.itsvg.in)
 

@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Will <br>I am a part of robotics team 4414<br>I mainly like to use python as it was my first programming language although I am adept at others.
+Hi, I'm Will 
+I am a part of robotics Team 4414! (`We won worlds` Lets go!)
+I mainly like to use Python, Java, Tensorflow and Machine learning!
+I am currently a High School student and I am interested in both Red team and Blue team cyber security! 
+I am trying to make a tool that can do menial tasks on the windows section of the Cyberpatriot competiton,
 
 
 ## 🌐 Socials:

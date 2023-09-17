@@ -16,6 +16,9 @@ I am trying to make a tool that can do menial tasks on the windows section of th
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WillCodesThings&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WillCodesThings&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### Favorite dev quote
+![](https://camo.githubusercontent.com/e4f2ba01ca91920dc780d5d43470c6f6c4e9a6a7518f7d10d3aeb44fe8e53b33/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d7665746963616c267468656d653d6461726b)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
